@@ -1,1 +1,1 @@
-web: pip install . -U && Kenza-run
+web: pip install . -U && firstpack-run
